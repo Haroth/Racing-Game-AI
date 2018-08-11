@@ -1,0 +1,9 @@
+﻿  main.cpp
+d:\programy\racing game ai\racinggame\racinggame\main.cpp(31): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+d:\programy\racing game ai\racinggame\racinggame\main.cpp(276): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+d:\programy\racing game ai\racinggame\racinggame\main.cpp(282): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+d:\programy\racing game ai\racinggame\racinggame\main.cpp(331): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+d:\programy\racing game ai\racinggame\racinggame\main.cpp(445): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+d:\programy\racing game ai\racinggame\racinggame\main.cpp(456): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+d:\programy\racing game ai\racinggame\racinggame\main.cpp(462): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  RacingGame.vcxproj -> D:\Programy\Racing Game AI\RacingGame\Debug\RacingGame.exe
